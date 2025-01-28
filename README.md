@@ -1,0 +1,2 @@
+# StreamWise-Real-Time-Data-Streaming-with-Kafka-and-Spring
+Ce projet explore Apache Kafka, depuis son installation locale et les tests basiques avec Kafka-console-producer/consumer, jusqu'à une configuration Docker avec docker-compose.yml pour déployer Zookeeper et un broker Kafka. Il développe ensuite des services Spring Cloud Streams (producteur, consommateur, analyse temps réel) avec une interface web.
